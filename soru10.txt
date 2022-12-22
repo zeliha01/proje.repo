@@ -1,0 +1,8 @@
+ 
+----------------------------------
+
+10-Eğer birisi mesajınıza hızlı şekilde yanıt vermezse, söylediğiniz bir şeyin yanlış olup olmadığı hakkında endişelenmeye başlar mısınız?
+A)Evet uzun süre görmezse mesajı silerim.
+B)Biraz endişelenip tekrar mesaj atarım.
+C)Beklerken mesajı tekrar tekrar okurum.
+D)Yanlış yaptığımı düşünmem.
