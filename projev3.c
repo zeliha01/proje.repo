@@ -3,12 +3,14 @@
 
 #include <stdio.h>
 #include <conio.h>
+
 FILE *dosya;
 char karakter;
 void okuma(){
-if(dosya==NULL){
-printf("DOSYA BULUNAMADI");
+    if(dosya==NULL){
+    printf("DOSYA BULUNAMADI");
 }
+
 do{
 karakter=getc(dosya);
  printf("%c",karakter);

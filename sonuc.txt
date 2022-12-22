@@ -1,7 +1,7 @@
 
 -----------------------
-içe dönük %54	%46 dışa dönük
-algılama  %46	%54 sezgisel
-mantıklı  %49	%51 duygusal
-iddiali   %52	%48 uzlaşmacı
+içe dönük %57	%43 dışa dönük
+algılama  %50	%50 sezgisel
+mantıklı  %44	%56 duygusal
+iddiali   %40	%60 uzlaşmacı
 -----------------------
